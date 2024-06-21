@@ -15,5 +15,5 @@
 - **[PointNet]()**
 - **[PoseNet]()**
 
-Todo: Reproduce PoseCNN and PointNet algorithms
+Tpdo: Reproduce PoseCNN and PointNet algorithms
 
