@@ -12,8 +12,16 @@
 - **[Introduction of CNN]()**
 
 ## Done 2: Read the classical papers of CNN
-- **[PointNet]()**
-- **[PoseNet]()**
+- **[PointNet](https://github.com/Dr-Cui-s-2024-summer-FURP/Jing-Xu-Weekly-report/blob/main/CNN_Note/PointNet.ipynb)**
+- **[PoseCNN](https://github.com/Dr-Cui-s-2024-summer-FURP/Jing-Xu-Weekly-report/blob/main/CNN_Note/PoseCNN_review.ipynb)**
 
-Tpdo: Reproduce PoseCNN and PointNet algorithms
+## Ongoing 1: PoseCNN implementation
+- **[PoseCNN implementation]()**
+
+# Todo: Reproduce PoseCNN and PointNet algorithms
+
+# Problem:
+- unfamiliar with many of the basic concepts
+- The virtual machine performance is not good enough
+
 
