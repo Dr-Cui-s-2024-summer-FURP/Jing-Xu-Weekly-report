@@ -16,7 +16,7 @@
 - **[PoseCNN](https://github.com/Dr-Cui-s-2024-summer-FURP/Jing-Xu-Weekly-report/blob/main/CNN_Note/PoseCNN_review.ipynb)**
 
 ## Ongoing 1: PoseCNN implementation
-- **[PoseCNN implementation]()**
+- **[PoseCNN implementation](https://github.com/Dr-Cui-s-2024-summer-FURP/Jing-Xu-Weekly-report/blob/main/CNN_Note/PoseCNN_imple_Process.ipynb)**
 
 # Todo: Reproduce PoseCNN and PointNet algorithms
 
